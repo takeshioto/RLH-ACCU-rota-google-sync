@@ -12,3 +12,5 @@ Assumptions:
 8. You have read syncRota.py, applied your own changes, including entering your loginID and password
 
 Working with the above assumptions as of 23/10/2020
+
+Note: this is a vastly overengineered solution to the problem and liable to break with any format changes to the google calendar website. Made to learn how to web scrape with Selenium. If you actually want to import to your calendar, use the CSV rota creation project
